@@ -62,3 +62,7 @@ dependencies {
 }
 
 apply plugin: 'com.google.gms.google-services'
+
+android {
+  compileSdkVersion 33
+}
